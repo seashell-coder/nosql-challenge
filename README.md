@@ -1,4 +1,4 @@
-# nosql-challenge
+
 <h1>NoSQL Challenge</h1> (Using MongoDB and Jupyter Notebook with PyMongo)<br/>
 by: Sadaf Hakim </br>
 
